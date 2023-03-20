@@ -107,4 +107,4 @@ async def fish(ctx):
 async def battle(ctx):
     await b.invoke(ctx)
 
-bot.run('ODI1Nzk3NjkyMzExMDc2OTA1.YGDKCA.OEpGDM3CeVMdbd0LNyQFnwM6htE')
+bot.run('')
